@@ -25,6 +25,7 @@
 * **Schema-aware prompts** using LangChain’s SQLDatabase
 * Outputs **only raw SQL** (no markdown, no explanations)
 * LCEL-based modular and extensible pipeline
+* Streamlit UI
 
 ---
 
