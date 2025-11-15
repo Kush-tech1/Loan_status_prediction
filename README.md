@@ -4,8 +4,7 @@
 
 ## 🚀 Overview
 
-**Text-to-SQL RAG** is a Retrieval-Augmented Generation system that converts natural-language questions into **accurate MySQL queries**.
-It uses **semantic retrieval**, **few-shot examples**, and **prompt engineering** to ensure the LLM generates schema-correct SQL without hallucinations.
+**Text-to-SQL RAG** converts natural-language questions into **accurate MySQL queries** using **semantic retrieval**, **few-shot examples**, and **prompt engineering** to ensure the LLM generates schema-correct SQL without hallucinations.
 
 ---
 ## ▶️ How It Works
