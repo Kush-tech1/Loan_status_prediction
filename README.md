@@ -1,7 +1,7 @@
 # 💳 Loan Status Prediction
 
 ## 📘 Overview
-Compact Jupyter-notebook project that predicts loan repayment (binary: repaid vs. default) using tabular applicant data. Focus is on quick EDA, simple preprocessing, model training, and evaluation.
+Compact Jupyter-notebook project that predicts loan approval (binary: 0:reject or 1;accepted) using tabular applicant data. Focus is on quick EDA, simple preprocessing, model training, and evaluation.
 
 ## ⚙️ How It Works
 - Load dataset (e.g., data/loan_data.csv) and inspect target distribution.
